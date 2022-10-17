@@ -9,7 +9,7 @@
     🟪 cep.personal@protonmail.com
     🟪 https://www.linkedin.com/in/corey-phillips-800a651bb/
 
-Languages:
+:rocket: Languages:
 
     🟪 C++
     🟪 Python
@@ -17,7 +17,7 @@ Languages:
     Currently Learning:
     🟪 TypeScript
     
-Some of my current projects include:
+:writing_hand: Some of my current projects include:
 
     🟪Taking in data from the RobotEvents API to rank VEX Teams and predict match outcomes and the outcome of a tournament.
     🟪Creating a way for the GULLS VEXU Robotics team to program autonomous routines using a graphical UI to push code 
