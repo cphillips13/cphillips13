@@ -14,15 +14,12 @@
     🟪 C++
     🟪 Python
     🟪 Java
-    Currently Learning:
-    🟪 TypeScript
     
 :writing_hand: Some of my current projects include:
 
     🟪Taking in data from the RobotEvents API to rank VEX Teams and predict match outcomes and the outcome of a tournament.
     🟪Creating a way for the GULLS VEXU Robotics team to program autonomous routines using a graphical UI to push code 
       directly to the robot.
-    🟪MATH-471 Numerical Methods at Salisbury University with Dr. Cone.
     🟪Creating a resume website to host my side projects on!
     
 <!---
